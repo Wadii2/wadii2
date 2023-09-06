@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wadii2</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="Coding" width="500" scr="https://www.nglesson.com//assets/pubs/mespubs/devenir-un-developpeur-web.gif>
+<h3 align="center">A passionate FullStack Developer from Morocco </h3>
+<img align="right" alt="Coding" width="500" scr="https://www.nglesson.com//assets/pubs/mespubs/devenir-un-developpeur-web.gif >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadii2&label=Profile%20views&color=0e75b6&style=flat" alt="wadii2" /> </p>
 
