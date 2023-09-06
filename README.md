@@ -1,7 +1,8 @@
-](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+<https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif>
+
 <h1 align="center">Hi 👋, I'm Wadii2</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-https://www.google.com/search?q=developpeur+gif&tbm=isch&ved=2ahUKEwjy9cKR15SBAxXIrycCHXyNDZgQ2-cCegQIABAA&oq=developpeur+gif&gs_lcp=CgNpbWcQAzIECAAQHjoECCMQJ1CPBVixCGDRC2gAcAB4AIABTIgB4gGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=XMH3ZPLXCsjfnsEP_Jq2wAk&bih=598&biw=680#imgrc=9KTvCV50UUIVmM
+<https://www.google.com/search?q=developpeur+gif&tbm=isch&ved=2ahUKEwjy9cKR15SBAxXIrycCHXyNDZgQ2-cCegQIABAA&oq=developpeur+gif&gs_lcp=CgNpbWcQAzIECAAQHjoECCMQJ1CPBVixCGDRC2gAcAB4AIABTIgB4gGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=XMH3ZPLXCsjfnsEP_Jq2wAk&bih=598&biw=680#imgrc=9KTvCV50UUIVmM>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadii2&label=Profile%20views&color=0e75b6&style=flat" alt="wadii2" /> </p>
 
